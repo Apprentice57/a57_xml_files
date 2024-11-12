@@ -1,5 +1,5 @@
-<rss version="2.0"
-     xmlns:atom="http://www.w3.org/2005/Atom"
+<rss version="2.0" 
+     xmlns:atom="http://www.w3.org/2005/Atom" 
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <atom:link href="https://feeds.megaphone.fm/startup" rel="self" type="application/rss+xml"/>
@@ -8,19 +8,41 @@
     <language>en</language>
     <copyright>All rights reserved</copyright>
     <description>A series about what it's really like to start a business.</description>
-    
     <image>
       <url>https://static.megaphone.fm/podcasts/f23b021e-a9a3-11e5-8768-bfc7a8ea314d/image/uploads_2F1517245218052-chutdg7xnlh-a4988f407d3afb297332b6e225d69283_2F20171116_StartUp-ShowCover.png</url>
       <title>StartUp Podcast</title>
       <link>https://www.gimletmedia.com/startup</link>
     </image>
-    
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:subtitle>The business origin story you never get to hear</itunes:subtitle>
     <itunes:author>Gimlet</itunes:author>
     <itunes:summary>A series about what it's really like to start a business.</itunes:summary>
-    
     <itunes:owner>
       <itunes:name>Gimlet</itunes:name>
-     
+      <itunes:email>hearstartup@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://static.megaphone.fm/podcasts/f23b021e-a9a3-11e5-8768-bfc7a8ea314d/image/uploads_2F1517245218052-chutdg7xnlh-a4988f407d3afb297332b6e225d69283_2F20171116_StartUp-ShowCover.png"></itunes:image>
+    <itunes:category text="Business"></itunes:category>
+    <itunes:category text="Society & Culture"></itunes:category>
+    <itunes:category text="Technology"></itunes:category>
+    
+    <item>
+      <title>Success Academy 7: The High School</title>
+      <description>Eva Moskowitz calls Success Academy's high school the startup within the startup. And, as at any startup, there’s been a lot of chaos in its first few years...</description>
+      <pubDate>Fri, 28 Dec 2018 05:07:00 -0000</pubDate>
+      <itunes:author>Gimlet</itunes:author>
+      <itunes:title>Success Academy 7: The High School</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:subtitle>“The revolution is coming.”</itunes:subtitle>
+      <itunes:summary>Eva Moskowitz calls Success Academy's high school the startup within the startup...</itunes:summary>
+      <itunes:duration>3346</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false">642cc88a-f8d4-11e8-8b74-23adefd31eaf</guid>
+      <enclosure url="https://traffic.megaphone.fm/GLT2395542210.mp3?updated=1546088319" length="0" type="audio/mpeg"/>
+    </item>
+    <!-- Additional <item> elements go here -->
+  </channel>
+</rss>
