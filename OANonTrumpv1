@@ -11,11 +11,11 @@
 		<copyright><![CDATA[]]></copyright>
 		<docs>http://openargs.com</docs>
 		<managingEditor>openarguments@gmail.com (openarguments@gmail.com)</managingEditor>
-		<itunes:summary><![CDATA[Opening Arguments is a law show that helps you make sense of the news! Comedian Thomas Smith brings on legal analysts to help you understand not only current events, but also deeper legal concepts and areas!
+		<itunes:summary><![CDATA[Cohost Matt Cameron's favorite Non Trump focused Episodes From Opening Arguments! Opening Arguments is a law show that helps you make sense of the news! Comedian Thomas Smith brings on legal analysts to help you understand not only current events, but also deeper legal concepts and areas!
 The typical schedule will be M-W-F with Monday being a deep-dive, Wednesday being Thomas Takes the Bar Exam and patron shoutouts, and Friday being a rapid response to legal issues in the news!]]></itunes:summary>
 		<image>
 			<url>https://static.libsyn.com/p/assets/2/6/1/9/261949e1b6a8cd5ae55e3c100dce7605/OA_Podcast_2024_FINAL-20240722-03wker1cxp.jpg</url>
-			<title>Opening Arguments</title>
+			<title>Opening Arguments (Matt Cameron's Favorite Non Trump Episodes)</title>
 			<link><![CDATA[http://openargs.com]]></link>
 		</image>
 		<itunes:author>Opening Arguments Media LLC</itunes:author>
@@ -29,7 +29,7 @@ The typical schedule will be M-W-F with Monday being a deep-dive, Wednesday bein
 			<itunes:name><![CDATA[Opening Arguments Media LLC]]></itunes:name>
 			<itunes:email>openarguments@gmail.com</itunes:email>
 		</itunes:owner>
-		<description><![CDATA[Opening Arguments is a law show that helps you make sense of the news! Comedian Thomas Smith brings on legal analysts to help you understand not only current events, but also deeper legal concepts and areas!
+		<description><![CDATA[Cohost Matt Cameron's favorite Non Trump focused Episodes From Opening Arguments! Opening Arguments is a law show that helps you make sense of the news! Comedian Thomas Smith brings on legal analysts to help you understand not only current events, but also deeper legal concepts and areas!
 The typical schedule will be M-W-F with Monday being a deep-dive, Wednesday being Thomas Takes the Bar Exam and patron shoutouts, and Friday being a rapid response to legal issues in the news!]]></description>
 		<itunes:type>episodic</itunes:type>
 		
@@ -54,6 +54,7 @@ The typical schedule will be M-W-F with Monday being a deep-dive, Wednesday bein
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		
+		<item>
 			<title>A Law for Christmas, and a Happy New Year!</title>
 			<itunes:title>A Law for Christmas, and a Happy New Year!</itunes:title>
 			<pubDate>Wed, 01 Jan 2025 02:38:00 +0000</pubDate>
@@ -153,7 +154,6 @@ The typical schedule will be M-W-F with Monday being a deep-dive, Wednesday bein
 			<itunes:episode>1079</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
-		<item>
 		
 		<item>
 			<title>Adnan Syed Remains a Convicted Murderer</title>
@@ -205,6 +205,7 @@ The typical schedule will be M-W-F with Monday being a deep-dive, Wednesday bein
 			<itunes:episode>1047</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
+		
 		<item>
 			<title>The Young Thug Contempt BS Was Even Worse Than We Knew</title>
 			<itunes:title>The Young Thug Contempt BS Was Even Worse Than We Knew</itunes:title>
